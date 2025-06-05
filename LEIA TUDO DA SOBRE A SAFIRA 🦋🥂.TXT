@@ -1,0 +1,31 @@
+
+
+*🤖 Safira Privacy – Sua Assistente de WhatsApp com Segurança e Estilo!*
+
+A *Safira Privacy* é uma bot inteligente desenvolvida para oferecer automação, privacidade e interatividade no WhatsApp. Projetada para grupos e uso pessoal, ela une recursos avançados com uma experiência personalizada.
+
+🔐 Privacidade e Segurança
+• Comandos protegidos  
+• Bloqueio de spam e flood  
+• Controle de acesso por grupo (modo aluguel)
+
+⚙️ Recursos Incluídos
+• Comandos de RPG e economia virtual  
+• Áudios com efeitos e figurinhas divertidas  
+• Moderação automática (ban, silenciar, avisos)  
+• Menu interativo por categorias  
+• Integração com IA e outras APIs úteis
+
+🧩 Requisitos
+• Node.js instalado  
+• Arquivos de sessão válidos  
+• Internet estável  
+• Permissões de administrador (em grupos)
+
+❗ Suporte e Erros
+Se a *Safira Privacy* apresentar mensagens de erro, falhas de conexão ou comandos que não funcionam:
+1. Reinicie o bot (CTRL+C e `node index.js`)
+2. Verifique se os arquivos `.json` e de sessão estão válidos
+3. Consulte o log de erro mostrado no console
+4. Em caso de falhas persistentes, entre em contato com o desenvolvedor para suporte
+5. Caso Nao Resolva o Problema contate o supprte imediato.
